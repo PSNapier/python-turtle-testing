@@ -39,7 +39,7 @@ def create_turt(colors):
     return turt
 
 
-# function to return randomized coords
+# function to return destination
 def create_destination():
     destination = random_coords(WIDTH, HEIGHT)
 
